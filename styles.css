@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #cfd0d5;
+    background: rgb(239 246 255);
 }
 
 .container {
@@ -49,7 +49,7 @@ body {
     width: 35px;
     height: 35px;
     border-radius: 50%;
-    background: #e7e3e3;
+    background: #ffffff;
     opacity: 0.9;
 }
 .container .drop::after {
@@ -60,7 +60,7 @@ body {
     width: 15px;
     height: 15px;
     border-radius: 50%;
-    background: #e7e3e3;
+    background: #ffffff;
     opacity: 0.9;
 }
 
